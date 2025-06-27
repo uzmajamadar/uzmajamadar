@@ -26,9 +26,6 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [VisionLog – AI Attendance System](https://github.com/uzmajamadar/visionlog-attendance)  
-Facial-recognition-based system using dlib, Flask, and Twilio for real-time employee tracking.
-
 ### 🔹 [Trippy-AI – AI Travel Buddy](https://github.com/uzmajamadar/trippy-ai-travel-buddy)  
 Google Gemini API + SerpAPI-based LLM travel assistant using prompt engineering for smart itinerary planning.
 
