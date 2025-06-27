@@ -63,8 +63,8 @@ SaaS platform automating tasks across 4+ APIs, improving efficiency by 4x for 10
 ## 📫 Contact
 
 📧 jamadaruzma04@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/your-link)  
-🔗 Portfolio (optional)
+🌐 [LinkedIn][https://www.linkedin.com/in/uzma-jamadar-6a05b0236/  ]
+
 
 ---
 
