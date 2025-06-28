@@ -40,13 +40,6 @@ SaaS platform automating tasks across 4+ APIs, improving efficiency by 4x for 10
 
 ---
 
-## 📈 GitHub Stats
-
-![Uzma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzmajamadar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzmajamadar&layout=compact&theme=radical)
-
----
-
 ## 🏆 Certifications & Highlights
 
 - ✅ Deep Learning – NPTEL (IIT Kharagpur)  
