@@ -26,7 +26,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Trippy-AI – AI Travel Buddy](https://github.com/uzmajamadar/trippy-ai-travel-buddy)  
+### 🔹 [Trippy-AI – AI Travel Buddy]https://github.com/uzmajamadar/Trippy
 Google Gemini API + SerpAPI-based LLM travel assistant using prompt engineering for smart itinerary planning.
 
 ### 🔹 [ConversAI – Smart Chatbot Platform](https://github.com/uzmajamadar/conversai-chatbot)  
